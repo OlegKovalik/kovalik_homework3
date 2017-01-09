@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">kovalik_homework3</string>
+
+    <string name="wellcome_login">Login to Instagram</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="error_connected">Error connect to Instagram:</string>
+
+    <string name="username">Имя инстаграм</string>
+    <string name="bio">О себе</string>
+    <string name="website">Веб сайт:</string>
+    <string name="full_name">Полное имя</string>
+    <string name="media_inst">Публикаций</string>
+    <string name="followed_by">Подписчиков</string>
+    <string name="follows">Подписки</string>
+    <string name="inst_id">Идентификатор</string>
+
+
+</resources>
